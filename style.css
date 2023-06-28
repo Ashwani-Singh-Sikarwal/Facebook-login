@@ -1,0 +1,66 @@
+*{
+    font-weight: lighter;
+    font-family: arial;
+}
+
+form{
+    text-align: center;
+}
+input{
+    height: 40px;
+    width: 450px;
+    border: solid 0.1px rgb(240, 237, 237);
+    box-shadow: 0px 0px 6px rgb(204, 203, 203);
+    
+}
+::placeholder{
+    font-size:  16px;
+    padding-left: 9px;
+    
+}
+.login{
+    height: 40px;
+    width: 450px;
+    margin-top:  12px;
+    color: white;
+    font-weight: bold;
+    background-color: #3979f8;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+}
+
+.login:hover{
+    background-color: #2e64d1;
+}
+a{
+    color: #2e64d1;
+    text-decoration: none;
+}
+div{
+    width: 35%; 
+   text-align: center; 
+   border-bottom: 1px solid #c9c7c7; 
+   line-height: 0.1em;
+   margin: 0 auto; 
+} 
+span{
+    background:#fff; 
+    padding:0 10px; 
+    font-size: small;
+    color: rgb(61, 59, 59);
+   
+}
+.new-acc{
+    height: 30px;
+    width: 300px;
+    font-size: 15px;
+    color: black;
+    border-radius: 5px;
+    border: none;
+    background-color: whitesmoke;
+    border-color: rgb(152, 148, 148);
+    box-shadow: 0px 0px 4px gainsboro;
+    
+
+}
